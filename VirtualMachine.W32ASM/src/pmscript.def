@@ -1,0 +1,13 @@
+LIBRARY	pmScript
+
+DESCRIPTION	'pmScript Virtual Machine'
+
+EXPORTS
+	LoadScript
+	LoadScriptFromFile
+	CreateVirtualMachine
+	RunScript
+	TakeStep
+	ResetVirtualMachine
+	PushVMStack
+	PopVMStack

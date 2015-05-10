@@ -1,0 +1,10 @@
+D:\WIP\pmScript\pmPocketAsm\obj\Release\ResolveAssemblyReference.cache
+D:\WIP\pmScript\pmPocketAsm\obj\Release\PolymathProgramming.pmScript.pmPocketAsm.Resources.resources
+D:\WIP\pmScript\pmPocketAsm\obj\Release\pmPocketAsm.vbproj.GenerateResource.Cache
+D:\WIP\pmScript\pmPocketAsm\bin\Release\pmPocketAsm.exe
+D:\WIP\pmScript\pmPocketAsm\bin\Release\pmPocketAsm.pdb
+D:\WIP\pmScript\pmPocketAsm\bin\Release\pmPocketAsm.xml
+D:\WIP\pmScript\pmPocketAsm\obj\Release\pmPocketAsm.exe
+D:\WIP\pmScript\pmPocketAsm\obj\Release\pmPocketAsm.xml
+D:\WIP\pmScript\pmPocketAsm\obj\Release\pmPocketAsm.pdb
+D:\WIP\pmScript\pmPocketAsm\obj\Release\PolymathProgramming.pmScript.pmPocketAsm.pmEditor.resources

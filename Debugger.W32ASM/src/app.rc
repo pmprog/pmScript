@@ -1,0 +1,6 @@
+AppIco			icon	"..\\gfx\\AppIco.ico"
+
+pmprog			bitmap	"..\\gfx\\pmprog.bmp"
+stdfont		bitmap	"..\\gfx\\basicfont.bmp"
+hilfont		bitmap	"..\\gfx\\selectfont.bmp"
+disfont		bitmap	"..\\gfx\\disablefont.bmp"

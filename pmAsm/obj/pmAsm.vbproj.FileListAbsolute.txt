@@ -1,0 +1,10 @@
+D:\WIP\pmScript\pmAsm\obj\Release\ResolveAssemblyReference.cache
+D:\WIP\pmScript\pmAsm\obj\Release\PolymathProgramming.pmScript.pmAsm.Resources.resources
+D:\WIP\pmScript\pmAsm\obj\Release\pmAsm.vbproj.GenerateResource.Cache
+D:\WIP\pmScript\pmAsm\bin\Release\pmAsm.exe
+D:\WIP\pmScript\pmAsm\bin\Release\pmAsm.pdb
+D:\WIP\pmScript\pmAsm\bin\Release\pmAsm.xml
+D:\WIP\pmScript\pmAsm\obj\Release\pmAsm.exe
+D:\WIP\pmScript\pmAsm\obj\Release\pmAsm.xml
+D:\WIP\pmScript\pmAsm\obj\Release\pmAsm.pdb
+D:\WIP\pmScript\pmAsm\obj\Release\PolymathProgramming.pmScript.pmAsm.pmEditor.resources

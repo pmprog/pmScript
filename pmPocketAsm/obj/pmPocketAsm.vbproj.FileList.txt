@@ -1,0 +1,10 @@
+bin\Release\pmPocketAsm.exe
+bin\Release\pmPocketAsm.pdb
+bin\Release\pmPocketAsm.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\PolymathProgramming.pmScript.pmPocketAsm.Resources.resources
+obj\Release\PolymathProgramming.pmScript.pmPocketAsm.pmEditor.resources
+obj\Release\pmPocketAsm.vbproj.GenerateResource.Cache
+obj\Release\pmPocketAsm.exe
+obj\Release\pmPocketAsm.xml
+obj\Release\pmPocketAsm.pdb

@@ -1,0 +1,3 @@
+D:\WIP\pmScript\pmAsm\obj\Release\pmAsm.exe
+D:\WIP\pmScript\pmAsm\obj\Release\pmAsm.xml
+D:\WIP\pmScript\pmAsm\obj\Release\pmAsm.pdb

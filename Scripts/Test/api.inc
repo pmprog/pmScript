@@ -1,0 +1,13 @@
+CreateWindow		equ	1
+AddEventHandler	equ	2
+CheckWindowEvents	equ	3
+LoadImage		equ	4
+CloseWindow		equ	5
+GetPlatform		equ	6
+GetDisplay		equ	7
+SetDisplay		equ	8
+OpenFile		equ	9
+CloseFile		equ	10
+ReadFile		equ	11
+WriteFile		equ	12
+MsgBox			equ	13

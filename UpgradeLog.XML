@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="pmScript">
+</Property><Property Name="Solution File" Value="D:\WIP\pmScript\pmScript.sln">
+</Property><Property Name="Date" Value="15 December 2009">
+</Property><Property Name="Time" Value="20:01">
+</Property></Properties><Event ErrorLevel="0" Project="pmPocketAsm" Source="pmPocketAsm\pmPocketAsm.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="pmPocketAsm" Source="pmPocketAsm\pmPocketAsm.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pmAsm" Source="pmAsm\pmAsm.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="pmAsm" Source="pmAsm\pmAsm.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pmDebug" Source="pmDebug\pmDebug.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="pmDebug" Source="pmDebug\pmDebug.vbproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="pmPocketAsm" Source="pmPocketAsm\pmPocketAsm.vbproj" Description="The project file 'D:\WIP\pmScript\pmPocketAsm\pmPocketAsm.vbproj' cannot be opened.&#xA;&#xA;The project type is not supported by this installation.">
+</Event><Event ErrorLevel="0" Project="" Source="pmScript.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="pmScript.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pmAsm" Source="pmAsm\pmAsm.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="pmDebug" Source="pmDebug\pmDebug.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
